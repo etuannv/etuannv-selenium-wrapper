@@ -1,5 +1,5 @@
 # etuannv-selenium-wrapper
-This is Python selenium wrapper which is written by etuannv.com
+## This is Python selenium wrapper which is written by etuannv.com
 
 How to use
 
