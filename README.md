@@ -4,7 +4,7 @@ This is Python selenium wrapper which is written by etuannv.com
 How to use
 
 
-browser = WebBrowser(
+```browser = WebBrowser(
     currentPath=None,   # current working path
     driver = None,      # copy another driver
     timeout = 10,       # default web browser timeout
@@ -18,4 +18,5 @@ browser = WebBrowser(
     isMobile=False,                 # Does it browser mobile 
     mobileUserAgentFilePath=None,   # Mobile user agent file path
     userAgentFilePath=None          # User agent file path
-):
+);
+```
